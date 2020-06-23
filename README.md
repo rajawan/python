@@ -1,4 +1,4 @@
-A Bike Rental System
+<h1>A Bike Rental System</h1>
 A full fledged bike rental system implemented in Python using object oriented programming.
 
 Customers can
